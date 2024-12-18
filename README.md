@@ -1,1 +1,1 @@
-this is a clean and minimalist portfolio built with HTML, CSS, and JavaScript, featuring sections like About Me, Projects, and Contact. It showcases my skills and projects in a simple yet creative layout, ensuring a smooth and engaging user experience.
+This is a clean and minimalist portfolio built with HTML, CSS, and JavaScript, featuring sections like About Me, Projects, and Contact. It showcases my skills and projects in a simple yet creative layout, ensuring a smooth and engaging user experience.
